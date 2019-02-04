@@ -9,7 +9,7 @@ import { TranslateService } from '@ngx-translate/core';
 export class AppComponent {
 
   title = 'AngularLocalization';
-  userName = 'Stranger';
+  userName = 'Strenger';
   now: Date = new Date();
   minutes = 0;
   gender = '?';
