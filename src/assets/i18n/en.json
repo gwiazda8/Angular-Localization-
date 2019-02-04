@@ -1,0 +1,32 @@
+{
+	"HOME": {
+		"TITLE": "Angular ngxTranslate localization",
+		"SUBTITLE": "Localizable content",
+		"NGXOPTIONS": "With ngxTranslate you have a wide range of options to localize your application.",
+		"TEXTS": "Texts",
+		"DATES": "Dates",
+		"NUMBERS": "Numbers",
+		"PERCENTAGES": "Percentages",
+		"CURRENCIES": "Currencies",
+		"PLURALS": "Plurals",
+		"PLURALALTERNATIVES": "You are also able to handle e.g. plurals or genders in the ICU format.",
+		"HELLO": "Hi, {{name}}",
+		"TEXTWITHPARAMAS": "Since your last login at {{date}}, {{count}} new articles have been published.",
+		"SHOWALERT": "Show alert",
+		"ALERTMESSAGE": "This is a really important warning.",
+		"MINUTES": "minutes: {{minutes}}",
+		"TIME" : "<0 { Will updated soon } =0 { Updated just now } =1 { Updated one minute ago } >1 { Updated {{minutes}} minutes ago }",
+		"ALTERNATETEXTS": "Alternatives",
+		"MALE": "male",
+		"FEMALE": "female",
+		"OTHER": "?",
+		"THEAUTHOR" : "The author is",
+		"GENDER": "=m {male} =f {female} other {unknown}"
+	},
+	"NAV": {
+		"EN": "English",
+		"DE": "German",
+		"FR": "French",
+		"IT": "Italian"
+	}
+}
